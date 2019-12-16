@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_pro"
+        android:icon="@drawable/ic_accc"
+        android:title="@string/nav_prof" />
+    <item
+        android:id="@+id/nav_cir"
+        android:icon="@drawable/ic_cir"
+        android:title="@string/nav_cir" />
+    <item
+        android:id="@+id/nav_acad"
+        android:icon="@drawable/ic_acad"
+        android:title="@string/nav_acad" />
+    <item
+        android:id="@+id/nav_lib"
+        android:icon="@drawable/ic_lib"
+        android:title="@string/nav_lib" />
+</menu>
